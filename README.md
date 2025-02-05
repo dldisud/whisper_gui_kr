@@ -4,7 +4,7 @@
 
 ### 1-1. Python 설치
 1. [Python 공식 홈페이지](https://www.python.org/downloads/)에 접속합니다.
-2. "Download Python" 버튼을 클릭합니다. (파이썬 3.8 이상 버전 추천)
+2. "Download Python" 버튼을 클릭합니다. (파이썬 3.9 버전 추천)
 3. 다운로드된 설치 파일을 실행합니다.
 4. 설치 시 **"Add Python to PATH"** 옵션을 반드시 체크해주세요!
 5. "Install Now"를 클릭하여 설치를 완료합니다.
